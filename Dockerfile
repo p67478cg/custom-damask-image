@@ -1,4 +1,4 @@
-FROM ghcr.io/hpcflow/petsc:3.18.4_gcc12
+FROM ghcr.io/hpcflow/petsc:3.17.5_gcc12
 
 ARG damask_repo=eisenforschung/DAMASK
 
